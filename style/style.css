@@ -1,0 +1,112 @@
+.navbar1{
+    background-color: #19252f;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+.welcome{
+    font-size: 2rem;
+line-height: 3.1rem;
+}
+.join{
+    font-size: 1 rem;
+line-height: 1.8rem;
+}
+    
+.left{
+    background-color: black;
+    color: white;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.your{
+    font-size: 2.8rem;
+line-height: 3.1rem;
+padding-top: 26px;
+padding-left:  45px;
+}
+.with{
+    font-size: 1.3rem;
+line-height: 1.8rem;
+padding-left:  45px;
+    padding-bottom: 62px;
+}
+.sub1{
+    color: black;
+}
+.block1{
+    display: flex;
+}
+.img{
+    
+    
+}
+body{
+    margin: 0%;
+}
+.mem{
+    font-size: 21px;
+}
+.one{
+    font-size: 2.2rem;
+line-height: 3.1rem;
+padding-right: 140px;
+}
+.block2{
+ display: flex;
+ color: white;
+ 
+
+}
+
+.sec1{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+    
+}
+.even{
+    font-size: 2.2rem;
+text-align: left;
+
+line-height: 1.2
+}
+.the{
+    font-size: 1 rem;
+}
+.block3{
+    display: flex;
+    color: white;
+}
+.sec2{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+    
+}
+.block4{
+    display: flex;
+    color: white;
+}
+.sec3{
+    justify-content: center;
+ align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+.navbar{
+    
+}
+.img {
+    margin: 5px;
+}
+*{
+    overflow-x: hidden;
+   }
